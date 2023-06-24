@@ -12,3 +12,5 @@ The script can be stopped by running the following command:
 
 `sudo killall python`
 
+A Sense Hat on a Raspberry Pi.
+![Sense Hat on a Raspberry Pi](images/sense-HAT.png)
